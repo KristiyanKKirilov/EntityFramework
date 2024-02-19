@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Visual Studio Projects\\Soft Uni\\Entity Framework\\MiniOrmCore\\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MinOrm.Ap\\MinOrm.Ap.csproj": {}
+  },
+  "projects": {
+    "D:\\Visual Studio Projects\\Soft Uni\\Entity Framework\\MiniOrmCore\\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\MiniORM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Visual Studio Projects\\Soft Uni\\Entity Framework\\MiniOrmCore\\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\MiniORM.csproj",
+        "projectName": "MiniORM",
+        "projectPath": "D:\\Visual Studio Projects\\Soft Uni\\Entity Framework\\MiniOrmCore\\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\MiniORM.csproj",
+        "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio Projects\\Soft Uni\\Entity Framework\\MiniOrmCore\\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "JetBrains.Annotations": {
+              "target": "Package",
+              "version": "[2022.3.1, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Visual Studio Projects\\Soft Uni\\Entity Framework\\MiniOrmCore\\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MinOrm.Ap\\MinOrm.Ap.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Visual Studio Projects\\Soft Uni\\Entity Framework\\MiniOrmCore\\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MinOrm.Ap\\MinOrm.Ap.csproj",
+        "projectName": "MinOrm.Ap",
+        "projectPath": "D:\\Visual Studio Projects\\Soft Uni\\Entity Framework\\MiniOrmCore\\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MinOrm.Ap\\MinOrm.Ap.csproj",
+        "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio Projects\\Soft Uni\\Entity Framework\\MiniOrmCore\\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MinOrm.Ap\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Visual Studio Projects\\Soft Uni\\Entity Framework\\MiniOrmCore\\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\MiniORM.csproj": {
+                "projectPath": "D:\\Visual Studio Projects\\Soft Uni\\Entity Framework\\MiniOrmCore\\02.ORM-Fundamentals-Exercise-MiniORM-Skeleton-6.0\\MiniORM\\MiniORM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

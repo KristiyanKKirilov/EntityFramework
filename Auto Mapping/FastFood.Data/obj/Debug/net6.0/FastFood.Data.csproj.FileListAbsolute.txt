@@ -1,0 +1,17 @@
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\bin\Debug\net6.0\FastFood.Data.deps.json
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\bin\Debug\net6.0\FastFood.Data.runtimeconfig.json
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\bin\Debug\net6.0\FastFood.Data.dll
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\bin\Debug\net6.0\FastFood.Data.pdb
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\bin\Debug\net6.0\FastFood.Models.dll
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\bin\Debug\net6.0\FastFood.Models.pdb
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\obj\Debug\net6.0\FastFood.Data.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\obj\Debug\net6.0\FastFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\obj\Debug\net6.0\FastFood.Data.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\obj\Debug\net6.0\FastFood.Data.AssemblyInfo.cs
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\obj\Debug\net6.0\FastFood.Data.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\obj\Debug\net6.0\FastFood.Data.csproj.CopyComplete
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\obj\Debug\net6.0\FastFood.Data.dll
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\obj\Debug\net6.0\refint\FastFood.Data.dll
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\obj\Debug\net6.0\FastFood.Data.pdb
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\obj\Debug\net6.0\FastFood.Data.genruntimeconfig.cache
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Data\obj\Debug\net6.0\ref\FastFood.Data.dll

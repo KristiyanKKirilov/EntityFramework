@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\bin\Debug\net6.0\XmlDocumentCreation.exe
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\bin\Debug\net6.0\XmlDocumentCreation.deps.json
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\bin\Debug\net6.0\XmlDocumentCreation.runtimeconfig.json
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\bin\Debug\net6.0\XmlDocumentCreation.dll
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\bin\Debug\net6.0\XmlDocumentCreation.pdb
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\obj\Debug\net6.0\XmlDocumentCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\obj\Debug\net6.0\XmlDocumentCreation.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\obj\Debug\net6.0\XmlDocumentCreation.AssemblyInfo.cs
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\obj\Debug\net6.0\XmlDocumentCreation.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\obj\Debug\net6.0\XmlDocumentCreation.dll
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\obj\Debug\net6.0\refint\XmlDocumentCreation.dll
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\obj\Debug\net6.0\XmlDocumentCreation.pdb
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\obj\Debug\net6.0\XmlDocumentCreation.genruntimeconfig.cache
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Xml\XmlDocument\XmlDocumentCreation\obj\Debug\net6.0\ref\XmlDocumentCreation.dll

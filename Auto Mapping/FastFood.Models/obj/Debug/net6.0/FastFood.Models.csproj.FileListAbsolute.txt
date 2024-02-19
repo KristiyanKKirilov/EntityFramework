@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Models\bin\Debug\net6.0\FastFood.Models.deps.json
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Models\bin\Debug\net6.0\FastFood.Models.dll
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Models\bin\Debug\net6.0\FastFood.Models.pdb
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Models\obj\Debug\net6.0\FastFood.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Models\obj\Debug\net6.0\FastFood.Models.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Models\obj\Debug\net6.0\FastFood.Models.AssemblyInfo.cs
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Models\obj\Debug\net6.0\FastFood.Models.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Models\obj\Debug\net6.0\FastFood.Models.dll
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Models\obj\Debug\net6.0\refint\FastFood.Models.dll
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Models\obj\Debug\net6.0\FastFood.Models.pdb
+D:\Visual Studio Projects\Soft Uni\Entity Framework\Auto Mapping\FastFood.Models\obj\Debug\net6.0\ref\FastFood.Models.dll

@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Patients>
+  <Patient Gender="male">
+    <FullName>Stanimir Pavlov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Aleve (Naproxen)</Name>
+        <Price>10.50</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2025-09-01</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Ciprofloxacin</Name>
+        <Price>19.20</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-07-22</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Indomethacin</Name>
+        <Price>12.75</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2024-08-08</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>22.00</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-05-15</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Lorazepam</Name>
+        <Price>25.30</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2023-03-20</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Borislava Kostova</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Clindamycin</Name>
+        <Price>15.30</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-07-20</BestBefore>
+      </Medicine>
+      <Medicine Category="sedative">
+        <Name>Chlorhexidine</Name>
+        <Price>9.80</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-03-30</BestBefore>
+      </Medicine>
+      <Medicine Category="sedative">
+        <Name>Chlorhexidine</Name>
+        <Price>10.80</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2024-03-30</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Naproxen</Name>
+        <Price>10.00</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2023-09-09</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Stafaniya Angelova</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ibuprofen</Name>
+        <Price>8.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-02-10</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>22.00</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-05-15</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Morphine</Name>
+        <Price>30.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-05-10</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Zopiclone</Name>
+        <Price>22.45</Price>
+        <Producer>NextGen Pharma</Producer>
+        <BestBefore>2024-02-18</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Svetoslav Todorov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ibuprofen</Name>
+        <Price>8.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-02-10</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>22.00</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-05-15</BestBefore>
+      </Medicine>
+      <Medicine Category="sedative">
+        <Name>Chlorhexidine</Name>
+        <Price>9.80</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-03-30</BestBefore>
+      </Medicine>
+      <Medicine Category="sedative">
+        <Name>Chlorhexidine</Name>
+        <Price>10.80</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2024-03-30</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Georgi Dimitrov</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ibuprofen</Name>
+        <Price>8.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-02-10</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Diazepam</Name>
+        <Price>18.75</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2024-01-20</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Lorazepam</Name>
+        <Price>25.30</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2023-03-20</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Georgi Todorov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ibuprofen</Name>
+        <Price>8.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-02-10</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Morphine</Name>
+        <Price>30.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-05-10</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Zopiclone</Name>
+        <Price>22.45</Price>
+        <Producer>NextGen Pharma</Producer>
+        <BestBefore>2024-02-18</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Ivan Angelov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>22.00</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-05-15</BestBefore>
+      </Medicine>
+      <Medicine Category="sedative">
+        <Name>Chlorhexidine</Name>
+        <Price>9.80</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-03-30</BestBefore>
+      </Medicine>
+      <Medicine Category="sedative">
+        <Name>Chlorhexidine</Name>
+        <Price>10.80</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2024-03-30</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Kaloyan Mihaylov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="sedative">
+        <Name>Hydrocortisone Cream</Name>
+        <Price>9.40</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-06-15</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Tetracycline</Name>
+        <Price>17.40</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-05-22</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Lorazepam</Name>
+        <Price>26.50</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2023-04-22</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Petar Georgiev</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>21.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-07-10</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Erythromycin</Name>
+        <Price>16.85</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-06-10</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Lorazepam</Name>
+        <Price>25.30</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2023-03-20</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Vladimir Kolev</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Ciprofloxacin</Name>
+        <Price>19.20</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-07-22</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Zolpidem</Name>
+        <Price>19.95</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2025-06-20</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Diazepam</Name>
+        <Price>18.75</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2024-01-20</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Yavor Dimitrov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="vaccine">
+        <Name>Zolpidem</Name>
+        <Price>19.95</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2025-06-20</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Ketoprofen</Name>
+        <Price>11.50</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2025-04-10</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Zopiclone</Name>
+        <Price>22.45</Price>
+        <Producer>NextGen Pharma</Producer>
+        <BestBefore>2024-02-18</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Zdravko Kolev</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ketoprofen</Name>
+        <Price>11.50</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2025-04-10</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Indomethacin</Name>
+        <Price>12.75</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2024-08-08</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Meloxicam</Name>
+        <Price>12.20</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-07-30</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Anastasiya Ilieva</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Indomethacin</Name>
+        <Price>12.75</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2024-08-08</BestBefore>
+      </Medicine>
+      <Medicine Category="sedative">
+        <Name>Chlorhexidine</Name>
+        <Price>10.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2024-04-30</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Angel Karaivanov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ibuprofen</Name>
+        <Price>8.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-02-10</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>22.00</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-05-15</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Anton Popov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ibuprofen</Name>
+        <Price>8.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-02-10</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>22.00</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-05-15</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Denitsa Hristova</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ketoprofen</Name>
+        <Price>11.50</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2025-04-10</BestBefore>
+      </Medicine>
+      <Medicine Category="sedative">
+        <Name>Chlorhexidine</Name>
+        <Price>10.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2024-04-30</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Dimitar Stoyanov</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="vaccine">
+        <Name>Alprazolam</Name>
+        <Price>23.50</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2025-04-18</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Naproxen</Name>
+        <Price>10.00</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2023-09-09</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Dragomir Angelov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ibuprofen</Name>
+        <Price>8.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-02-10</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>22.00</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-05-15</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Elena Dimitrova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ketoprofen</Name>
+        <Price>11.50</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2025-04-10</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>21.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-07-10</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Elitsa Kirilova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="sedative">
+        <Name>Hydrocortisone Cream</Name>
+        <Price>9.40</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-06-15</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Morphine</Name>
+        <Price>30.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-05-10</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Emiliya Todorova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>21.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-07-10</BestBefore>
+      </Medicine>
+      <Medicine Category="sedative">
+        <Name>Hydrocortisone Cream</Name>
+        <Price>9.40</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-06-15</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Georgi Ivanov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="vaccine">
+        <Name>Zolpidem</Name>
+        <Price>19.95</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2025-06-20</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Morphine</Name>
+        <Price>30.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-05-10</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Iliana Georgieva</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ketoprofen</Name>
+        <Price>11.50</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2025-04-10</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Clonazepam</Name>
+        <Price>21.30</Price>
+        <Producer>NextGen Pharma</Producer>
+        <BestBefore>2023-02-07</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Ivan Petrov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>21.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-07-10</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Zopiclone</Name>
+        <Price>22.45</Price>
+        <Producer>NextGen Pharma</Producer>
+        <BestBefore>2024-02-18</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Ivelina Todorova</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ibuprofen</Name>
+        <Price>8.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-02-10</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Lorazepam</Name>
+        <Price>25.30</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2023-03-20</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Lyubomir Vasilev</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Meloxicam</Name>
+        <Price>12.20</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-07-30</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Tetracycline</Name>
+        <Price>17.40</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-05-22</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Maria Ivanova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Aleve (Naproxen)</Name>
+        <Price>10.50</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2025-09-01</BestBefore>
+      </Medicine>
+      <Medicine Category="sedative">
+        <Name>Chlorhexidine</Name>
+        <Price>10.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2024-04-30</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Nikolay Vasilev</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Ciprofloxacin</Name>
+        <Price>19.20</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-07-22</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Diazepam</Name>
+        <Price>18.75</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2024-01-20</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Nikolina Petrova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>21.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-07-10</BestBefore>
+      </Medicine>
+      <Medicine Category="sedative">
+        <Name>Hydrocortisone Cream</Name>
+        <Price>9.40</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-06-15</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Radina Kostova</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Ciprofloxacin</Name>
+        <Price>19.20</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-07-22</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Ibuprofen</Name>
+        <Price>8.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-02-10</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Radoslav Dimitrov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Naproxen</Name>
+        <Price>10.00</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2023-09-09</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Lorazepam</Name>
+        <Price>26.50</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2023-04-22</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Todor Aleksandrov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Clindamycin</Name>
+        <Price>15.30</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-07-20</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Naproxen</Name>
+        <Price>10.00</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2023-09-09</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Tsvetelina Mihaylova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>21.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-07-10</BestBefore>
+      </Medicine>
+      <Medicine Category="sedative">
+        <Name>Hydrocortisone Cream</Name>
+        <Price>9.40</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-06-15</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Valentina Tsvetkova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ketoprofen</Name>
+        <Price>11.50</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2025-04-10</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>21.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-07-10</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Vasil Petrov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ibuprofen</Name>
+        <Price>8.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-02-10</BestBefore>
+      </Medicine>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>22.00</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-05-15</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Vasil Petrov</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>22.00</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-05-15</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Lorazepam</Name>
+        <Price>25.30</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2023-03-20</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Viktor Popov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ketoprofen</Name>
+        <Price>11.50</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2025-04-10</BestBefore>
+      </Medicine>
+      <Medicine Category="antibiotic">
+        <Name>Indomethacin</Name>
+        <Price>12.75</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2024-08-08</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Yana Popova</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Erythromycin</Name>
+        <Price>16.85</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-06-10</BestBefore>
+      </Medicine>
+      <Medicine Category="vaccine">
+        <Name>Lorazepam</Name>
+        <Price>25.30</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2023-03-20</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Aneliya Petrova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>21.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-07-10</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Borislav Marinov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Clindamycin</Name>
+        <Price>15.30</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-07-20</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Boyan Dimitrov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="vaccine">
+        <Name>Clonazepam</Name>
+        <Price>21.30</Price>
+        <Producer>NextGen Pharma</Producer>
+        <BestBefore>2023-02-07</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Ekaterina Vasileva</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Naproxen</Name>
+        <Price>10.00</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2023-09-09</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Iskra Ivanova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ketoprofen</Name>
+        <Price>11.50</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2025-04-10</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Katerina Savova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Erythromycin</Name>
+        <Price>16.85</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-06-10</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Krasimir Yordanov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Meloxicam</Name>
+        <Price>12.20</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-07-30</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Kristina Ivanova</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="sedative">
+        <Name>Chlorhexidine</Name>
+        <Price>10.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2024-04-30</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Lidiya Nikolova</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>21.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-07-10</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Magdalena Stoyanova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="sedative">
+        <Name>Hydrocortisone Cream</Name>
+        <Price>9.40</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-06-15</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Margarita Stafanova</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Ibuprofen</Name>
+        <Price>8.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2025-02-10</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Martin Georgiev</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Indomethacin</Name>
+        <Price>12.75</Price>
+        <Producer>HealthCare Pharma</Producer>
+        <BestBefore>2024-08-08</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Mila Dimitrova</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="vaccine">
+        <Name>Lorazepam</Name>
+        <Price>25.30</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2023-03-20</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Nikolay Zhelev</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="vaccine">
+        <Name>Ativan (Lorazepam)</Name>
+        <Price>20.00</Price>
+        <Producer>NextGen Pharma</Producer>
+        <BestBefore>2025-03-01</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Plamen Nikolov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="sedative">
+        <Name>Chlorhexidine</Name>
+        <Price>10.50</Price>
+        <Producer>ReliefMed Labs</Producer>
+        <BestBefore>2024-04-30</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Rositsa Hristova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="vaccine">
+        <Name>Zopiclone</Name>
+        <Price>22.45</Price>
+        <Producer>NextGen Pharma</Producer>
+        <BestBefore>2024-02-18</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Silviya Zaharieva</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="antiseptic">
+        <Name>Penicillin</Name>
+        <Price>21.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-07-10</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Spas Ivanov</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="antibiotic">
+        <Name>Morphine</Name>
+        <Price>30.00</Price>
+        <Producer>GeneriCare Pharmaceuticals</Producer>
+        <BestBefore>2024-05-10</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Stoyan Petrov</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="sedative">
+        <Name>Hydrocortisone Cream</Name>
+        <Price>9.40</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-06-15</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Svetla Petrova</FullName>
+    <AgeGroup>Senior</AgeGroup>
+    <Medicines>
+      <Medicine Category="sedative">
+        <Name>Hydrocortisone Cream</Name>
+        <Price>9.40</Price>
+        <Producer>Central Pharma</Producer>
+        <BestBefore>2024-06-15</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Tsvetanka Yordanova</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="vaccine">
+        <Name>Ativan (Lorazepam)</Name>
+        <Price>20.00</Price>
+        <Producer>NextGen Pharma</Producer>
+        <BestBefore>2025-03-01</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="male">
+    <FullName>Valeri Terziev</FullName>
+    <AgeGroup>Adult</AgeGroup>
+    <Medicines>
+      <Medicine Category="vaccine">
+        <Name>Zopiclone</Name>
+        <Price>22.45</Price>
+        <Producer>NextGen Pharma</Producer>
+        <BestBefore>2024-02-18</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+  <Patient Gender="female">
+    <FullName>Violeta Georgieva</FullName>
+    <AgeGroup>Child</AgeGroup>
+    <Medicines>
+      <Medicine Category="vaccine">
+        <Name>Ativan (Lorazepam)</Name>
+        <Price>20.00</Price>
+        <Producer>NextGen Pharma</Producer>
+        <BestBefore>2025-03-01</BestBefore>
+      </Medicine>
+    </Medicines>
+  </Patient>
+</Patients>
